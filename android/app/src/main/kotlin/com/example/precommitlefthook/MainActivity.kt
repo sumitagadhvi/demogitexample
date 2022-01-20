@@ -1,4 +1,4 @@
-package com.example.githooksproject
+package com.example.precommitlefthook
 
 import io.flutter.embedding.android.FlutterActivity
 
