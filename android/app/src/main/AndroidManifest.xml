@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.githookexample">
+    package="com.example.githooksproject">
    <application
-        android:label="githookexample"
+        android:label="githooksproject"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

@@ -1,4 +1,4 @@
-package com.example.githookexample
+package com.example.githooksproject
 
 import io.flutter.embedding.android.FlutterActivity
 

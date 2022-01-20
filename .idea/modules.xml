@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/githookexample.iml" filepath="$PROJECT_DIR$/githookexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/githooksproject.iml" filepath="$PROJECT_DIR$/githooksproject.iml" />
     </modules>
   </component>
 </project>
